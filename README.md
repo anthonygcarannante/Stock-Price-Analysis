@@ -2,5 +2,6 @@
 
 28MAR2021
 
-I am submitting my VBA assignment via Github. I am liking this method of moving and storing codes.. very unique. The inner nerd in me is very much enjoying the concept.
+I am submitting my VBA assignment via Github. This code was written to analyze large amounts of stock data in excel sheets.
+
 -AGC
